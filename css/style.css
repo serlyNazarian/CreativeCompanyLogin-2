@@ -1,0 +1,48 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.main-page {
+    background-color: #263466;
+    height: 500px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-page {
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    color: grey;
+    padding: 50px;
+}
+
+.form-page h2 {
+    color: #263466;
+}
+
+.main-inpt {
+    height: 35px;
+    width: 200px;
+}
+
+.form-page button {
+    background-color: #263466;
+    color: white;
+}
+
+.form-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    height: 100px;
+}
+.form-2 a {
+    text-decoration: none;
+    color: grey;
+}
